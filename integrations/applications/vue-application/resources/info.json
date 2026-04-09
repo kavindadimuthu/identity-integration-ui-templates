@@ -4,7 +4,7 @@
     "name": "Vue",
     "description": "Client-rendered (CSR) Vue apps scaffolded with create-vue or Vite.",
     "image": "${CONSOLE_BASE_URL}/resources/applications/assets/images/technologies/vue-logo.svg",
-    "displayOrder": 0,
+    "displayOrder": 2,
     "category": "TECHNOLOGY",
     "tags": [
         "OIDC"
